@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/gabriele/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1864787428.index
